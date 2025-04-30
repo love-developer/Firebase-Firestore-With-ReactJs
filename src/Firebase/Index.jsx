@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 const firebaseConfig = {
-  apiKey: "AIzaSyAbHcU5cwknvqEvThLS2_3fGSYn8X07X0I",
+  apiKey: "your api key",
   authDomain: "reactjsfirebase-be923.firebaseapp.com",
   databaseURL: "https://reactjsfirebase-be923-default-rtdb.firebaseio.com",
   projectId: "reactjsfirebase-be923",
